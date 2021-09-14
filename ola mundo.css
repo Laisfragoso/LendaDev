@@ -1,0 +1,14 @@
+h1 {
+  text-align:center;
+  font-size:150px;
+  color:white;
+  letter-spacing:5px;
+  position:absolute;
+  top:10%;
+  left:50%;
+  transform:translatex(-50%);  
+}
+
+body {
+  background-color:black;
+}
